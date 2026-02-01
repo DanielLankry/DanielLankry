@@ -16,46 +16,6 @@ I care about correctness, structure, and understanding systems deeply.
 
 ---
 
-## 🚀 Active Projects
-### 🏎️ Formula 1 – Driver Performance Analysis (ML)
-**Status:** In progress  
-- Data collection via FastF1 API (2018–2023)
-- Exploratory Data Analysis (EDA)
-- **Clustering drivers** by performance patterns
-- **Supervised models** to predict race outcomes by track characteristics  
-**Tech:** Python, Pandas, NumPy, scikit-learn, Plotly, Jupyter
-
----
-
-### 📱 ShiftMate – Shift Management App (Concept → MVP)
-**Status:** In progress  
-- App for shift managers and small businesses
-- Focus on clean UX, logic correctness, scalability
-- Premium AI features planned (future phase)  
-**Tech:** System design, Figma, backend planning
-
----
-
-## ✅ Completed Projects
-### 🏠 House Prices Prediction – Supervised Learning
-**Status:** Completed & published  
-- Full ML pipeline: preprocessing → EDA → models → GridSearchCV
-- Compared multiple regressors
-- Clear documentation & reproducibility  
-🔗 Repository: **HOUSING_PRICES_ML_PROJECT_HIT**  
-**Tech:** Python, scikit-learn, Pandas, Matplotlib
-
----
-
-### 📊 Data Science Assignments & Labs
-- Structured notebooks
-- Emphasis on **why**, not only results
-- Clean explanations suitable for evaluation  
-**Tech:** Python, NumPy, Pandas
-
----
-
-## 🧠 Core Skills
 ## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -105,6 +65,46 @@ I care about correctness, structure, and understanding systems deeply.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
+---
+
+## 🚀 Active Projects
+### 🏎️ Formula 1 – Driver Performance Analysis (ML)
+**Status:** In progress  
+- Data collection via FastF1 API (2018–2023)
+- Exploratory Data Analysis (EDA)
+- **Clustering drivers** by performance patterns
+- **Supervised models** to predict race outcomes by track characteristics  
+**Tech:** Python, Pandas, NumPy, scikit-learn, Plotly, Jupyter
+
+---
+
+### 📱 ShiftMate – Shift Management App (Concept → MVP)
+**Status:** In progress  
+- App for shift managers and small businesses
+- Focus on clean UX, logic correctness, scalability
+- Premium AI features planned (future phase)  
+**Tech:** System design, Figma, backend planning
+
+---
+
+## ✅ Completed Projects
+### 🏠 House Prices Prediction – Supervised Learning
+**Status:** Completed & published  
+- Full ML pipeline: preprocessing → EDA → models → GridSearchCV
+- Compared multiple regressors
+- Clear documentation & reproducibility  
+🔗 Repository: **HOUSING_PRICES_ML_PROJECT_HIT**  
+**Tech:** Python, scikit-learn, Pandas, Matplotlib
+
+---
+
+### 📊 Data Science Assignments & Labs
+- Structured notebooks
+- Emphasis on **why**, not only results
+- Clean explanations suitable for evaluation  
+**Tech:** Python, NumPy, Pandas
+
+---
 
 ## 🏋️ Beyond Code
 - Powerlifting & structured strength training
