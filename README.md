@@ -1,6 +1,6 @@
 # Daniel Lonkry
 
-I work on personal software projects and use Python and SQL. I'm looking for a junior software development role in Israel.
+I'm a Computer Science graduate from Holon Institute of Technology (HIT) seeking a junior software development role in Israel. I use Python and SQL in personal projects.
 
 ## Selected projects
 
