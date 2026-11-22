@@ -1,6 +1,6 @@
 # Daniel Lonkry
 
-I build software with Python, SQL, and TypeScript. I'm looking for a junior software development role in Israel, with a focus on backend development and an interest in embedded software and device integration.
+I work on personal software projects and use Python and SQL. I'm looking for a junior software development role in Israel.
 
 ## Selected projects
 
